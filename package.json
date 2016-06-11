@@ -5,12 +5,12 @@
   "dependencies": {},
   "devDependencies": {
     "ts-loader": "^0.8.2",
-    "tslint": "^3.7.4",
-    "tslint-loader": "^2.1.3",
+    "tslint": "^3.11.0",
+    "tslint-loader": "^2.1.4",
     "typescript": "^1.8.10",
-    "webpack": "^1.12.15"
+    "webpack": "^1.13.1"
   },
-  "scripts":{
+  "scripts": {
     "postinstall": "typings install"
   },
   "author": "Daniel Mies, daniel.mies@codecentric.de",

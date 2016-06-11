@@ -83,8 +83,7 @@
         ],
         "switch-default": true,
         "trailing-comma": [
-            true,
-            {
+            true, {
                 "multiline": "always",
                 "singleline": "never"
             }
@@ -101,15 +100,13 @@
             "property-declaration"
         ],
         "typedef-whitespace": [
-            true,
-            {
+            true, {
                 "call-signature": "nospace",
                 "index-signature": "nospace",
                 "parameter": "nospace",
                 "property-declaration": "nospace",
                 "variable-declaration": "nospace"
-            },
-            {
+            }, {
                 "call-signature": "space",
                 "index-signature": "space",
                 "parameter": "space",
